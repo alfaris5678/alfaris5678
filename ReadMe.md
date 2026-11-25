@@ -1,0 +1,27 @@
+# 💫 About Me:
+# 👋 Hi, I'm Mohamed Faris<br><br>I'm an IT infrastructure and service desk engineer based in London, with an MSc in Applied Cyber Security from the University of South Wales. I enjoy keeping systems running, fixing problems properly and automating the boring parts. I'm now moving towards a career in cyber security.<br><br>## 💼 Experience<br>- **Stratogent, Bengaluru (nearly 3 years):** Systems engineer, then systems analyst, supporting 200+ users and Windows servers<br>  - Resolved 150+ tickets a month in ServiceNow at a 95% first call resolution rate<br>  - Ran monthly patching across 30+ servers, reaching 98% compliance<br>  - Wrote PowerShell scripts for account lockout reporting (200+ users) and a hotfix check (210 servers)<br>  - Wrote SOPs that cut onboarding time by 25%<br>- **Lloyds Banking Group (customer service):** Took 60+ calls a day with a 90% customer satisfaction score and handled sensitive data under strict authentication procedures<br><br>## 🔧 Tech<br>Windows Server, Active Directory, Microsoft Entra ID, Microsoft 365, Group Policy, SCCM, Intune, VMware ESXi, Cisco AnyConnect VPN, AWS, Azure, RHEL, PowerShell, Python<br><br>## 🔐 Security tools<br>Nmap, Wireshark, Burp Suite, Splunk (SIEM)<br><br>## 🎓 Education and certifications<br>- MSc Applied Cyber Security, University of South Wales<br>- BEng Electrical and Electronics Engineering, ATME College of Engineering<br>- RHCSA | Certified Ethical Hacker (CEH) | Google Cybersecurity Certificate | CCNA Introduction to Cybersecurity<br><br>## 🧪 Projects<br>- **MSc dissertation, The Evolution of Firewalls and What May Come Next:** Cisco Packet Tracer labs comparing ACLs, zone based firewalls, NGFW and WAF against simulated attacks<br>- SOC investigation and malware analysis using Wireshark and PCAP files<br>- Simulated breach investigation using SIEM log analysis<br><br>## 🌱 Currently learning<br>Python for security automation, detection and incident response, and cloud security<br><br>## 📫 Get in touch<br>- LinkedIn: [linkedin.com/in/mohamedfaris-417510189](https://linkedin.com/in/mohamedfaris-417510189)<br>- Email: mohamed.faris7909@gmail.com
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfaris_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mohamedfaris-417510189) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@mohamedfaris7909) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@inside.theviralvault) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.faris7909@gmail.com) 
+
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alfaris5678&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alfaris5678&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alfaris5678&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alfaris5678&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alfaris5678&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=alfaris5678&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
